@@ -107,3 +107,6 @@ Metrics
 
 #### Conclusion
 This monitoring stack provides a robust solution for observing and troubleshooting containerized environments. By integrating Nginx, PostgreSQL, Prometheus, Grafana, Loki, and Promtail, it ensures centralized logging and metrics visualization, 
+
+
+![docker swarm replication](https://github.com/rukevweubio/DevOps-Monitoring-Stack/blob/main/picture/Screenshot%20(575).png)
