@@ -112,5 +112,8 @@ This monitoring stack provides a robust solution for observing and troubleshooti
 ![docker swarm replication](https://github.com/rukevweubio/DevOps-Monitoring-Stack/blob/main/picture/Screenshot%20(575).png)
 
 ![grafan loki](https://github.com/rukevweubio/DevOps-Monitoring-Stack/blob/main/picture/Screenshot%20(572).png)
-
+## docker 
 ![docker cpu usage](https://github.com/rukevweubio/DevOps-Monitoring-Stack/blob/main/picture/Screenshot%20(582).png)
+
+
+![ docker cpu and filesystem](https://github.com/rukevweubio/DevOps-Monitoring-Stack/blob/main/picture/Screenshot%20(580).png)
